@@ -1,11 +1,10 @@
 var firebase = require("firebase");
 // const {Storage} = require('@google-cloud/storage');
 
-// const gstorage = new Storage();
 
 
 const firebaseconfig = {
-    apiKey: "AIzaSyARka6EBPoWroAaexuCEZoFNxTl6-KbBww",
+    apiKey: process.env.apiKey,
     authDomain: "edicodetor.firebaseapp.com",
     databaseURL: "https://edicodetor.firebaseio.com",
     projectId: "edicodetor",
