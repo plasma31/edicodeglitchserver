@@ -16,7 +16,7 @@
     "compile-run": "^2.3.2",
     "cors": "^2.8.5",
     "jsonwebtoken": "^8.5.1",
-    "firebase": "^7.14.2",
+    "firebase": "^10.9.0",
     "del": "^5.1.0"
   },
   "engines": {
